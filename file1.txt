@@ -1,0 +1,2 @@
+This is a new file called file1.txt
+For testing purpose only
